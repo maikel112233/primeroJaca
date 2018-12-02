@@ -9,7 +9,7 @@
         </template>
 
         <template v-if="menu==2">
-            <pruebamodal></pruebamodal>
+            <articulo></articulo>
         </template>
 
         <template v-if="menu==3">
